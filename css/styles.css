@@ -1,0 +1,68 @@
+#title{
+  background-color: #00adb5;
+}
+#features{
+  background-color: #393e46;
+  padding: 5% 15%;
+  color: #eeeeee;
+  text-align: center;
+  margin-right: 0;
+}
+#testimonials{
+  background-color: #00adb5;
+  padding: 5% 15%;
+  text-align: center;
+}
+#press{
+  background-color: #393e46;;
+  padding-bottom: 5%;
+  text-align: center;
+}
+#pricing{
+  padding: 5% 10% ;
+}
+#cta{
+  background-color: #222831;
+  color: #ff2e63;
+  text-align: center;
+  padding-top: 50px;
+}
+#footer{
+  background-color: #222831;
+  color: #fff;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  text-align: center;
+
+}
+.col-lg-6{
+  padding: 7% 15%;
+}
+.icon{
+  color: #ff2e63;
+  margin-bottom: 20px;
+}
+.icon:hover{
+  color: #08d9d6;
+}
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+}
+.testimonial-indicators{
+  padding-top: 30px;
+}
+.press-image{
+  width: 15%;
+  padding-top: 7%;
+}
+.copyright{
+  margin-bottom: 0;
+}
+.button-contact{
+  padding-left: 30px;
+
+}
+/* .carousel-inner{
+  padding: 5% 15%;
+} */
